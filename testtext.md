@@ -7,7 +7,7 @@
 
 試したいこと：
 - push権限の制限(Branch Protection Rules)
-  hidehitofにのみ権限を追加したらどうなる
+  hidehitofにのみ権限を追加したらどうなるのか
 - merge権限の制限(Branch Protection Rules)
 - create権限の制限(pre-receive hook)
 試せたら追記します。
